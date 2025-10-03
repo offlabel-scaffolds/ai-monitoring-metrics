@@ -42,7 +42,7 @@ docker build -t ${scaffold.name} .
 - PostgreSQL
 - FastAPI
 
-## ️ Architecture
+## Architecture
 
 ```
 ai-monitoring-metrics/
