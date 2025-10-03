@@ -1,0 +1,36 @@
+{
+  "name": "ai-monitoring-metrics",
+  "description": "LLM monitoring with cost tracking, latency metrics, and alerting",
+  "tech": [
+    "Prometheus",
+    "Grafana",
+    "Python",
+    "PostgreSQL",
+    "FastAPI"
+  ],
+  "categories": [
+    "ai-ml",
+    "devops"
+  ],
+  "usecases": [
+    "ai-ml",
+    "enterprise"
+  ],
+  "maturity": "stable",
+  "complexity": "intermediate",
+  "features": [
+    "monitoring",
+    "metrics",
+    "cost-tracking",
+    "alerting",
+    "dashboard",
+    "docker"
+  ],
+  "hasDemo": true,
+  "hasCLI": false,
+  "securityFeatures": [
+    "authentication",
+    "encryption"
+  ],
+  "lastUpdated": "2025-01-03"
+}
